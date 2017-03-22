@@ -1,6 +1,6 @@
-This MATLAB code is an implementation of the visual tracking method proposed in [tmm17]. 
+This MATLAB code is an implementation of the visual tracking method proposed in [tmm17dong]. 
 
-[tmm17] 
+\bibitem{tmm17dong} 
 X. Dong, J. Shen, D. Yu, W. Wang, J. Liu, and H. Huang, 
 Occlusion-aware real-time object tracking, 
 IEEE Trans. on Multimedia, 19(4):763-771, 2016
@@ -19,3 +19,11 @@ We offer the results of three evaluation methods including "OPE", "SRE", and "TR
 Contact:
 Xingping Dong   dongxingping@bit.edu.cn
 Jianbing Shen   shenjianbing@bit.edu.cn  or shenjianbingcg@gmail.com
+
+*************************************************************************
+******** Please cite our paper. Many Thanks. ****************************
+\bibitem{tmm17dong} 
+X. Dong, J. Shen, D. Yu, W. Wang, J. Liu, and H. Huang, 
+Occlusion-aware real-time object tracking, 
+IEEE Trans. on Multimedia, 19(4):763-771, 2016
+*************************************************************************
